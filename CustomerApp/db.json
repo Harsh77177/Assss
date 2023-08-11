@@ -1,0 +1,14 @@
+{
+  "customer": [
+    {
+      "customerId": "1",
+      "customerName": "John Doe",
+      "customerAddress": "123 Main St"
+    },
+    {
+      "customerId": "2",
+      "customerName": "Jane Smith",
+      "customerAddress": "456 Elm St"
+    }
+  ]
+}
